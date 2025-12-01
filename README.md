@@ -63,7 +63,7 @@ Además de almacenarse en el archivo `data.json`, todos los productos que se agr
 
 Campos de la tabla `products`: 
 
-- `id` (PRIMARY KEY AUTOINCREMENT)
+- `id` (PRIMARY KEY AUTOINCREMENT) 
 - `nombre`
 - `precio`
 - `imagen`
