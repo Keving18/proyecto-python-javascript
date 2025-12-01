@@ -41,7 +41,7 @@ Link: [Aplicacion en Render](https://python-javascript-seccion-a.onrender.com/)
 
 
 
-## Funcionalidades adicionales requeridas
+## Funcionalidades adicionales requeridas (Implementacion de autenticacion login y logout + Base de datos SQLite)
 
 ### Autenticación de usuarios
 
