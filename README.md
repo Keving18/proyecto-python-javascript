@@ -33,7 +33,15 @@ python app.py
 
 Link: [Aplicacion en Render](https://python-javascript-seccion-a.onrender.com/)
 
-## Funcionalidades adicionales
+
+
+
+
+
+
+
+
+## Funcionalidades adicionales requeridas
 
 ### Autenticación de usuarios
 
